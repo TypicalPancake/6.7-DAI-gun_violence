@@ -98,6 +98,9 @@ participant_summary_for_tableau.csv: Participant demographics and roles.
 
 gun_summary_for_tableau.csv: Gun type and stolen gun details.
 
+Tableau Link:
+https://public.tableau.com/app/profile/brent.neri/viz/UnderstandingGunViolenceAData-DrivenExplorationByBrentNeri/UnderstandingGunViolenceAData-DrivenExploration?publish=yes
+
 How to Use:
 
 Import the CSV files into Tableau or another data visualization tool.
